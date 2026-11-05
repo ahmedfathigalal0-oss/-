@@ -1,0 +1,6 @@
+{
+  "name": "ناطق",
+  "description": "تطبيق تحويل النص إلى كلام مسموع غير محدود بنماذج Gemini TTS وأصوات Google AI Studio واللهجات العربية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
